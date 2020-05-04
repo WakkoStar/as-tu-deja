@@ -1,4 +1,4 @@
-# as-tu-deja
+# As tu déjà ?
 Application REACT NATIVE &amp; REDUX - Jeu de soirée sous forme de question / réponse
  
 ## Utilisation de redux
@@ -12,11 +12,15 @@ La technologie est utilisé pour :
 ## React Native
 
 Utilisation de transition-group et react navigation pour un sytème clair et efficace
-Les questions sont répértoriés dans un fichier tels quel.
+Les questions sont répértoriés dans un fichier et sont directement ajoutées dans le code.
+
+Exemple d'une question
 ```json
 {
-theme : 2,
-mode : 1, 
-question : "ceci est un exemple"
+"theme" : 2,
+"mode" : 1, 
+"question" : "ceci est un exemple"
 }
 ```
+
+
